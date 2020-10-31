@@ -20,6 +20,7 @@ What are Integrated Development Environments (IDE)
 What is p5.js
 What is the p5js editor
 How are we going to use these things to learn to code
+
 Vocabulary:
 Information
 Media and Data
@@ -34,13 +35,15 @@ Something to drink
 Internet Access
 Computer or Laptop
 Web Browser preferably Chrome
+
 Engagement:
 [Describe how the mentor will capture students’ interest.
 What kind of questions should the students ask themselves after the engagement?]
 
 The Internet. It creeps into everyone’s life for one reason or another.
 Computers and technology. This is what the Internet is. 
-Media and data. This is what ‘information’ is..  
+Media and data. This is what ‘information’ is.
+
 Exploration:
 [Present an example of the activity using a common approach. 
 Describe what hands-on/minds-on activities students will be doing.
@@ -60,7 +63,8 @@ Explanation:
  
 List higher order thinking questions which teachers will use to solicit student explanations and help them to justify their explanations.]
 
-I’ll ask each participant about their understanding regarding computer code and its  uses. 
+I’ll ask each participant about their understanding regarding computer code and its  uses.
+
 Elaboration/Extension:
 [Describe how students will develop a more sophisticated understanding of the concept.
 What vocabulary will be introduced and how will it connect to students’ observations?
