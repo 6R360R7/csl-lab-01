@@ -1,14 +1,14 @@
 # csl-lab-01-1
 First CSL Lab 
 
-CSL Lab Week 01
+##CSL Lab Week 01
 
 CLUES - BBTTC
 Technology Workshop Plan
 gromero@clues.org
 nov, 13 2020
 
-Type:
+##Type:
 Virtual/Zoom
 Topic:
 What is p5.js, p5js online IDE, what is web standards technology. 
@@ -21,7 +21,7 @@ What is p5.js
 What is the p5js editor
 How are we going to use these things to learn to code
 
-Vocabulary:
+##Vocabulary:
 Information
 Media and Data
 Integrated Development Environments (IDE)
@@ -36,7 +36,7 @@ Internet Access
 Computer or Laptop
 Web Browser preferably Chrome
 
-Engagement:
+##Engagement:
 [Describe how the mentor will capture students’ interest.
 What kind of questions should the students ask themselves after the engagement?]
 
@@ -44,7 +44,7 @@ The Internet. It creeps into everyone’s life for one reason or another.
 Computers and technology. This is what the Internet is. 
 Media and data. This is what ‘information’ is.
 
-Exploration:
+##Exploration:
 [Present an example of the activity using a common approach. 
 Describe what hands-on/minds-on activities students will be doing.
 List “big idea” conceptual questions the teacher will use to encourage and/or focus students’ exploration and problem solving.]
@@ -58,14 +58,15 @@ We’ll go over how these three technologies fit together to form what we know a
 https://editor.p5js.org/grgry13/sketches/8sLYhkBsm
 https://editor.p5js.org/grgry13/sketches/SKXHpG-Ra
 https://editor.p5js.org/grgry13/sketches/5LHLE5ccoy
-Explanation:
+
+##Explanation:
 [Student explanations should precede introduction of terms or explanations by the teacher. What questions or techniques will the teacher use to help students connect their exploration to the concept under examination?
  
 List higher order thinking questions which teachers will use to solicit student explanations and help them to justify their explanations.]
 
 I’ll ask each participant about their understanding regarding computer code and its  uses.
 
-Elaboration/Extension:
+##Elaboration/Extension:
 [Describe how students will develop a more sophisticated understanding of the concept.
 What vocabulary will be introduced and how will it connect to students’ observations?
 How is this knowledge applied in our daily lives?]
