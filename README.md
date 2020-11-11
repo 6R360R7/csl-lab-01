@@ -1,69 +1,59 @@
-# csl-lab-01-1
-First CSL Lab 
-
-## CSL Lab Week 01
-
-CLUES - BBTTC
-Technology Workshop Plan
-gromero@clues.org
-nov, 13 2020
+Introduction to Code
 
 ## Type:
-Virtual/Zoom
+* Virtual/Zoom
+* lab exercise
 
 ## Topic:
-What is p5.js, p5js online IDE, what is web standards technology. 
+* Create and explore p5.js’ cloud IDE
 
-## Duration: 
-~90 minutes
+## Duration:
+* ~45 minutes
 
 ## Learning Objectives:
-What are programming languages
-What are Integrated Development Environments (IDE)
-What is p5.js
-What is the p5js editor
-How are we going to use these things to learn to code
+
+* What are Integrated Development Environments (IDE)
+* Create p5.js and explore the p5.js cloud IDE
+* What p5.js can be used for
+* Using p5js to learn coding
 
 ## Vocabulary:
-Information
-Media and Data
-Integrated Development Environments (IDE)
-Computer Languages
-JavaScript, HTML, CSS
-Browser - Document Object Model (DOM) 
-Code Libraries
-Materials:
-Email address
-Something to drink
-Internet Access
-Computer or Laptop
-Web Browser preferably Chrome
+* Integrated Development Environments (IDE)
+* Web Standards Tech (JavaScript, HTML, CSS)
+* Code Libraries
+* UI/UX
+
+## Materials:
+* Email address
+* Internet Access
+* Computer or Laptop
+* Web Browser preferably Chrome
 
 ## Engagement:
-The Internet. It creeps into everyone’s life for one reason or another.
-Computers and technology. This is what the Internet is. 
-Media and data. This is what ‘information’ is.
+
+Introduce learners to what web technologies are, and how we interact with them every day of our lives, sometimes without even knowing it. Inspire the learner to pay attention to the various interfaces they use in everyday life. Invite them to explore various coding languages and uses on their own and which tech interests them the most.
 
 ## Exploration:
-To begin I’ll go through the process of making a p5.js account where we will be creating and saving out projects for this series of labs.
+Go through the process of making a p5.js account. Demonstrate some of the features in the p5.js cloud IDE and how they are used.
 
-Second, we’ll explore at a high-level some of the elements that make the internet work. In particular, examples of front-end web technologies i.e. Javascript, html, css.
+Explore at a high-level elements that make the internet work. In particular, examples of front-end web technologies (Javascript, html, css).
 
-We’ll go over how these three technologies fit together to form what we know as’ online content’. I’ll give some examples of the code in the p5js editor, give some live demonstrations of the functionality of the 3 elements, and then instigate a discussion regarding the what was presented
+We’ll go over how the three technologies fit together. Give some examples of the code in the p5js editor, present some live demonstrations of web standards technologies. Instigate a discussion regarding the what was presented
 
-https://editor.p5js.org/grgry13/sketches/8sLYhkBsm
-https://editor.p5js.org/grgry13/sketches/SKXHpG-Ra
-https://editor.p5js.org/grgry13/sketches/5LHLE5ccoy
+* [https://editor.p5js.org/grgry13/sketches/8sLYhkBsm](https://editor.p5js.org/grgry13/sketches/8sLYhkBsm)
+* [https://editor.p5js.org/grgry13/sketches/SKXHpG-Ra](https://editor.p5js.org/grgry13/sketches/SKXHpG-Ra)
+* [https://editor.p5js.org/grgry13/sketches/5LHLE5ccoy](https://editor.p5js.org/grgry13/sketches/5LHLE5ccoy)
 
 ## Explanation:
-I’ll ask each participant about their understanding regarding computer code and its  uses.
+Ask each participant about their understanding regarding what I presented and invite them to explain what they think.
+
+* What can this technology be used for?
+* What good is it to learn about these technologies?
+* Do these technologies inspire curiosity?
+* What things do you think use code?
 
 ## Elaboration/Extension:
-Describe how students will develop a more sophisticated understanding of the concept.
-What vocabulary will be introduced and how will it connect to students’ observations?
-How is this knowledge applied in our daily lives?
+Learners will leave with enough knowledge to explore web technologies on their own. The examples presented will inspire their curiosity to explore web standard technologies such as Javascript, HTML, CSS. Learners will gain access to a cloud IDE wich grants them easy access to explore and learn.
 
 ## Evaluation:
-How will students demonstrate that they have achieved the lesson objective?
-This should be embedded throughout the lesson as well as at the end of the lesson.
-
+I’ll ask the learners to complete an exercise that demonstrates how to write, run and troubleshoot some very basic javascript in the p5.js cloud IDE.
