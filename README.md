@@ -1,4 +1,4 @@
-# Introduction to Code
+# CSL Lab 01 - Introduction to Code
 
 ## Type:
 * Virtual/Zoom
